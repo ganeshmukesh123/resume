@@ -1,0 +1,40 @@
+Work Experience
+Senior Frontend Developer
+CleverTap | Mar 2022 – Present
+Core-App: Journeys and Automation
+
+Project Overview: Part of the team responsible for building a visual builder to create automated omnichannel notifications, serving over a billion Monthly Active Users (MAU).
+Key Contributions:
+Improved the structure of Segment Node in Journeys, helping to bridge knowledge gaps and drive higher adoption of the Journey feature.
+Optimized journey page load times by refactoring API calls, significantly improving page performance and user experience.
+Developed and enhanced features like IntelliNODE, personalized profile updates, engagement stats, and Scribe, all aimed at increasing user engagement and experience.
+Led the deployment of multiple UI revamps related to Campaigns and Journeys, improving overall aesthetics and usability.
+Troubleshot and resolved complex, non-reproducible UI issues, demonstrating a keen ability to dig deep into problems and provide scalable solutions.
+Collaborated cross-functionally with design, backend, and product teams to ensure seamless delivery of features.
+Mentored peers and junior developers, providing code reviews, guidance on best practices, and leadership on scalable solutions.
+Played a significant role in influencing architecture designs to ensure maintainability and scalability.
+Technologies: JavaScript, TypeScript, Vue.js, Vuex, Go.js, HTML5, CSS3, TestCafe, Java, Struts, MongoDB
+
+UI Developer
+Media.Net | Jul 2019 – Mar 2022
+
+Project Overview: Worked on developing UI components and dashboards for Media.Net, a leading global advertising technology company.
+Key Contributions:
+Built dynamic, user-friendly News, Weather forecast, and Ad-blocker extension Widget UIs, which were highly praised for responsiveness and performance.
+Developed an account management dashboard and ad-template SERP pages, contributing to the company's main ad-serving platform.
+Ensured all web pages were pixel-perfect, responsive, and optimized for performance, achieving a PageSpeed Insights score of 90+ for most of the projects.
+Created reusable, modular components to streamline development and improve maintainability of the front-end codebase.
+Worked closely with the design and product teams to ensure consistent user experiences across all platforms.
+Mentored new joiners, provided peer code reviews, and ensured the adoption of best practices within the development team.
+Technologies: JavaScript, jQuery, WordPress, HTML5, CSS3, Laravel
+
+Associate Software Developer
+Accenture | Sept 2018 – Jul 2019
+
+Project Overview: Worked on developing middleware for a gas billing system, collaborating with a global team to deliver key backend and frontend solutions.
+Key Contributions:
+Contributed to the development and maintenance of middleware components for the gas billing system, ensuring efficient and scalable data processing.
+Worked closely with onshore teams to gather requirements and deliver technical solutions that met client specifications.
+Collaborated on the integration of various web services, ensuring the frontend interfaces seamlessly with the backend systems.
+Technologies: Java, Struts, PLSQL, JSP, HTML5, CSS3
+
