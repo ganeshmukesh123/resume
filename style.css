@@ -3,7 +3,8 @@
 }
 .hero {
     border-bottom: 1px solid #F61329;
-    margin-bottom: 1rem;
+    margin: 1rem 0;
+    padding-bottom: 1rem;
 }
 .name {
     font-size: 2.5rem;
@@ -13,7 +14,7 @@
     font-weight: 600;
 }
 .slead {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     font-weight: 600;
     color: #F61329;
 }
